@@ -1,9 +1,7 @@
 l: AID_instruction
 t: textline
 o: require
-q: <p><strong>Please create your anonymous code using this guideline:</strong></p>
-Last name initial + Middle/Last name initial + date of birth
-For example, if your name is <b>Apple Pie Johnason</b>, and your birthday is <b>2020/09/20</b>. Your anonymous ID would be <b>JP0920</b>.
+q: [Instructions for creating the participant code were removed from this public copy in 2026.]
 - Please indicate your anonymous code here:
 
 l: age_gender
